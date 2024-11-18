@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yanglin Zhou (周杨林)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yanglin Zhou"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ author:
   avatar           : "YanglinZhou2019.png"
   name             : "Yanglin Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Research Professor at State Key Laboratory of Power System Operation and Control, Tsinghua University"
   location         : "Earth"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhouylstu@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
