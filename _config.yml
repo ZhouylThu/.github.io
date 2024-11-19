@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "YanglinZhou2.png"
+  avatar           : "YanglinZhou2"
   name             : "Yanglin Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Research Professor at State Key Laboratory of Power System Operation and Control, Tsinghua University"
